@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App button {
+  margin: 10px;
+}
+
+.App label {
+  margin-right: 10px;
+}
+
+span {
+  text-transform: capitalize;
+}
+
+.RemoteData {
+  margin: 10px;
+}
+
+.User_List {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
